@@ -1,6 +1,6 @@
 # Hello, I'm [Fabricio]!
 
-👨‍💻 Software Developer | 🌍 Data Scientis | 📷 Enterpreneur   
+👨‍💻 Software Developer | 🌍 Data Scientist | 📷 Enterpreneur   
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fabriciombc/)
 
